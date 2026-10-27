@@ -34,9 +34,14 @@ This repository is created as part of **Practical 7** to demonstrate the integra
 - Understanding source stages and pipeline configuration.
 - Exploring how version control supports DevOps practices.
 
-### 🚀 Project Status
+### ✅ Implementation Result
 
-**In Progress** 
+- Successfully connected the GitHub repository to AWS CodePipeline.
+- Configured the `main` branch as the source.
+- Successfully executed the source and deployment stages.
+- Deployed `GitHub-AWS.zip` to the Amazon S3 bucket `ann-lambda`.
 
+### 📌 Project Status
 
+**Successfully implemented and tested.**
 
