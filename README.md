@@ -2,7 +2,7 @@
 
 ## AWS CodePipeline Integration with GitHub
 
-This repository is created as part of **Practical 7** to demonstrate the integration of GitHub with AWS Developer Tools and understand the fundamentals of DevOps workflows.
+This repository is created to demonstrate the integration of GitHub with AWS Developer Tools and understand the fundamentals of DevOps workflows.
 
 ### 🎯 Objectives
 
