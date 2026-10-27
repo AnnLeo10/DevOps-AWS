@@ -1,4 +1,4 @@
-# DevOps--AWS
+# DevOps-AWS
 
 ## AWS CodePipeline Integration with GitHub
 
