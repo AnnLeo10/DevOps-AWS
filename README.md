@@ -39,6 +39,4 @@ This repository is created as part of **Practical 7** to demonstrate the integra
 **In Progress** 
 
 
----
 
-*Created for academic learning and practical implementation of DevOps concepts.*
